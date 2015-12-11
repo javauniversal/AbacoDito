@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sin Móvil</string>
+    <string name="action_settings">Configuración</string>
+    <string name="negocio">Negocio</string>
+    <string name="password">Password</string>
+    <string name="title_activity_act_logon_usuario">Sin Móvil</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="nombre_del_modulo">Nombre del modulo</string>
+    <string name="descripci_n_del_modulo">Descripción del modulo</string>
+    <string name="_200_000">$ 200.000</string>
+    <string name="_56">56</string>
+    <string name="title_activity_act_menu">Menú</string>
+</resources>
